@@ -38,7 +38,7 @@
     "rollup": "^0.36.4",
     "rollup-plugin-buble": "^0.14.0",
     "rollup-plugin-json": "^2.0.2",
-    "uglify-js": "^2.7.5"
+    "uglify-js": "^3.17.4"
   },
   "eslintConfig": {
     "extends": "jwalker"
